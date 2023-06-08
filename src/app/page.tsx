@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
     return (
-        <main className="flex min-h-screen flex-col p-12 bg-[#1d1d1d]">
+        <main className="flex min-h-screen text-white flex-col p-12 bg-[#1d1d1d]">
             <div className="w-full flex flex-col items-center">
                 <Image
                     src="/tower.png"
